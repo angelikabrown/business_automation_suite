@@ -1,10 +1,19 @@
 import pandas as pd
 
 
-df = pd.read_csv('sample_data/testdata.csv')
 
-if df.empty:
-    print("The DataFrame is empty.")
+try:
 
-print(df.head())
+    df = pd.read_csv('sample_data/testdata.csv')
+
+    print(f"Imported {len(df)} records")
+    print("\nColumns")
+    print(df.columns.to_list())
+
+    print("\nPreview")
+    print(df.head())
+    
+
+except FileNotFoundError:
+    print("File not found. Please check the file path.")
 
