@@ -1,0 +1,15 @@
+Name,Email,Phone,City
+"John Smith",john.smith@gmail.com,555-0192,New York
+sarah connor,s.connor@cyberdyne,5550183,los angeles
+" Michael Scott ",mscott@dundermifflin.com, (555) 839-2001 , Scranton 
+JANE DOE,JANE.DOE@GMAIL.COM,555.392.1029,CHICAGO
+"Robert ""Bob"" Johnson",bob@johnsonplumbing.com,+1 555 920 1122,Austin
+amanda waller,awaller@argus.gov,555-1293,gotham city
+David Miller,david.m@,,seattle
+"Lisa Simpson",lsimpson@springfield.edu,555-4321,Springfield
+Chris Evans,chris.evans@marvel.com,555-0192, New York 
+"John Smith",john.smith@gmail.com,555-0192,New York
+,,555-8821,Phoenix
+Alex Rivera,alex.rivera@domain,555-7734,Miami
+" Dr. Emily Watson ",emily.watson@clinic.org,555-901-2233, Boston
+TBD,invalid-email@,N/A,unknown
